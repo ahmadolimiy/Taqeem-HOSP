@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "767303476234",
+    "project_id": "tqeem-82d1e",
+    "storage_bucket": "tqeem-82d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767303476234:android:6d6745c4c195270f78ebf3",
+        "android_client_info": {
+          "package_name": "com.example.taqeem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1iSToG16QIBIZdMZJLSu6EBtisHtISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767303476234:android:9457eb499ec2f29378ebf3",
+        "android_client_info": {
+          "package_name": "com.newapp1.taqeem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1iSToG16QIBIZdMZJLSu6EBtisHtISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767303476234:android:daf8ef3e3069b4db78ebf3",
+        "android_client_info": {
+          "package_name": "com.olimi.taq_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1iSToG16QIBIZdMZJLSu6EBtisHtISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767303476234-olos31s7sufkif5u2s0p6p0vtcrlk2mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
